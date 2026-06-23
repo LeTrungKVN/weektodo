@@ -9,6 +9,7 @@
     "data": "Données",
     "import": "Importer",
     "export": "Exporter",
+    "clear": "Effacer",
     "backup": "Sauvegarde:",
     "invalidFile": "Fichier invalide",
     "checkUpdates": "Rechercher des mises à jour au démarrage",
@@ -40,9 +41,8 @@
     "notificationIndicator": "Indicateur de notification",
     "autoReorderTasks": "Réorganiser automatiquement les tâches",
     "moveCompletedTaskToBottom": "Déplacer les tâches terminées vers le bas",
-    "clear": "Supprimer",
-    "fullscreenToDoModal": "Détails de la tâche en plein écran",
     "moveCompletedSubTaskToBottom": "Déplacer les sous-tâches terminées vers le bas",
+    "fullscreenToDoModal": "Détails de la tâche en plein écran",
     "weekStartOnMonday": "La semaine commence le lundi"
   },
   "donate": {
@@ -80,7 +80,7 @@
     "contributors": "Contributrice",
     "sponsors": "Sponsors",
     "collaborators": "Collaborateurs",
-    "email": "Emaildata4",
+    "email": "Email",
     "blog": "Blogue",
     "license": "Licence"
   },

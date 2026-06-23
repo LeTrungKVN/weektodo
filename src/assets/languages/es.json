@@ -9,6 +9,7 @@
     "data": "Datos",
     "import": "Importar",
     "export": "Exportar",
+    "clear": "Limpiar",
     "backup": "Copia de Seguridad:",
     "invalidFile": "Archivo Inválido",
     "checkUpdates": "Buscar actualizaciones al inicio",
@@ -40,10 +41,9 @@
     "notificationIndicator": "Indicador de notificación",
     "autoReorderTasks": "Reordenar tareas automáticamente",
     "moveCompletedTaskToBottom": "Mover las tareas completadas al final",
-    "clear": "Eliminar",
-    "fullscreenToDoModal": "Detalles de tareas en pantalla completa",
-    "moveCompletedSubTaskToBottom": "Mover las subtareas completadas al final",
-    "weekStartOnMonday": "La semana comienza el lunes."
+    "moveCompletedSubTaskToBottom": "Mover sub-tareas completadas al final",
+    "fullscreenToDoModal": "Detalles de tarea en pantalla completa",
+    "weekStartOnMonday": "La semana inicia el lunes"
   },
   "donate": {
     "contribute": "Contribuir",
@@ -94,7 +94,7 @@
     "data8": "También puedes ocultarlas en el menú de opciones",
     "data9": "Manzanas",
     "data10": "Refrescos",
-    "data11": "Haga clic en los tres puntos para ver más detalles sobre esta tarea",
+    "data11": "Click the three dots to see more details about this task",
     "data12": "Abra los detalles de la tarea rápidamente con el clic central del ratón",
     "list1": "Lista Personalizada",
     "list2": "Lista de Compras",
@@ -150,6 +150,7 @@
     "mobileWarning": "WeekToDo es una aplicación de Escritorio y por ahora no esta lista para mostrarse en esta resolución. :(",
     "today": "Hoy",
     "calendar": "Calendario",
+    "print": "PDF / Print",
     "newCustomList": "Nueva Lista Personalizada",
     "reorderCustomLists": "Reordenar listas personalizadas",
     "softwareUpdated": "Software Actualizado",
@@ -179,7 +180,6 @@
     "copyTasks": "Copiar tareas",
     "task": "Tarea",
     "Frecuency": "Frecuencia",
-    "print": "PDF / Imprimir",
     "showAll": "Mostrar todo"
   },
   "todoDetails": {

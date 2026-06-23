@@ -9,6 +9,7 @@
     "data": "데이터",
     "import": "수입",
     "export": "내보내다",
+    "clear": "Clear",
     "backup": "지원:",
     "invalidFile": "유효하지 않은 파일",
     "checkUpdates": "시작 시 업데이트 확인",
@@ -40,10 +41,9 @@
     "notificationIndicator": "알림 표시기",
     "autoReorderTasks": "자동으로 작업 재정렬",
     "moveCompletedTaskToBottom": "완료된 작업을 맨 아래로 이동",
-    "clear": "삭제",
-    "fullscreenToDoModal": "전체 화면으로 할 일 세부 정보",
-    "moveCompletedSubTaskToBottom": "완료된 하위 작업을 맨 아래로 이동",
-    "weekStartOnMonday": "주 시작 월요일"
+    "moveCompletedSubTaskToBottom": "Move completed sub-tasks to bottom",
+    "fullscreenToDoModal": "To-do Details in full screen",
+    "weekStartOnMonday": "The Week start on Monday"
   },
   "donate": {
     "contribute": "기여하다",
@@ -94,7 +94,7 @@
     "data8": "설정 메뉴에서 숨길 수도 있습니다.",
     "data9": "사과",
     "data10": "청량 음료",
-    "data11": "이 작업에 대한 자세한 내용을 보려면 점 3개를 클릭하세요.",
+    "data11": "Click the three dots to see more details about this task",
     "data12": "마우스 가운데 버튼으로 빠르게 작업 세부 정보 열기",
     "list1": "사용자 지정 목록",
     "list2": "식료품 목록",

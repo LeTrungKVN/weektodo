@@ -9,6 +9,7 @@
     "data": "Dados",
     "import": "Importar",
     "export": "Exportar",
+    "clear": "Clear",
     "backup": "Backup:",
     "invalidFile": "Arquivo inválido",
     "checkUpdates": "Verifique se há atualizações na inicialização",
@@ -40,10 +41,9 @@
     "notificationIndicator": "Indicador de notificação",
     "autoReorderTasks": "Reordenar tarefas automaticamente",
     "moveCompletedTaskToBottom": "Mover tarefas concluídas para baixo",
-    "clear": "Excluir",
-    "fullscreenToDoModal": "Detalhes da tarefa em tela cheia",
-    "moveCompletedSubTaskToBottom": "Mover subtarefas concluídas para baixo",
-    "weekStartOnMonday": "A semana começa na segunda-feira"
+    "moveCompletedSubTaskToBottom": "Move completed sub-tasks to bottom",
+    "fullscreenToDoModal": "To-do Details in full screen",
+    "weekStartOnMonday": "The Week start on Monday"
   },
   "donate": {
     "contribute": "Contribuir",
@@ -94,7 +94,7 @@
     "data8": "Você também pode ocultá-los no menu de configurações",
     "data9": "Maçãs",
     "data10": "Refrescos",
-    "data11": "Clique nos três pontos para ver mais detalhes sobre esta tarefa",
+    "data11": "Click the three dots to see more details about this task",
     "data12": "Abra os detalhes da tarefa rapidamente com o clique do meio do mouse",
     "list1": "Lista personalizada",
     "list2": "Lista de compras",

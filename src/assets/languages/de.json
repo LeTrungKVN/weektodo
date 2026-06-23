@@ -9,6 +9,7 @@
     "data": "Daten",
     "import": "Importieren",
     "export": "Exportieren",
+    "clear": "Clear",
     "backup": "Backup:",
     "invalidFile": "Ungültige Datei",
     "checkUpdates": "Beim Start nach Updates suchen",
@@ -40,10 +41,9 @@
     "notificationIndicator": "Benachrichtigungsanzeige",
     "autoReorderTasks": "Aufgaben automatisch neu anordnen",
     "moveCompletedTaskToBottom": "Erledigte Aufgaben nach unten verschieben",
-    "clear": "Löschen",
-    "fullscreenToDoModal": "Aufgabendetails im Vollbildmodus",
-    "moveCompletedSubTaskToBottom": "Abgeschlossene Unteraufgaben nach unten verschieben",
-    "weekStartOnMonday": "Die Woche beginnt am Montag"
+    "moveCompletedSubTaskToBottom": "Move completed sub-tasks to bottom",
+    "fullscreenToDoModal": "To-do Details in full screen",
+    "weekStartOnMonday": "The Week start on Monday"
   },
   "donate": {
     "contribute": "Beitragen",
@@ -94,7 +94,7 @@
     "data8": "Sie können sie auch im Optionsmenü ausblenden",
     "data9": "Äpfel",
     "data10": "Erfrischungen",
-    "data11": "Klicken Sie auf die drei Punkte, um weitere Details zu dieser Aufgabe anzuzeigen",
+    "data11": "Click the three dots to see more details about this task",
     "data12": "Öffnen Sie Aufgabendetails schnell mit dem mittleren Mausklick",
     "list1": "Benutzerdefinierte Liste",
     "list2": "Einkaufsliste",

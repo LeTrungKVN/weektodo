@@ -9,6 +9,7 @@
     "data": "數據",
     "import": "匯入",
     "export": "匯出",
+    "clear": "Clear",
     "backup": "備份：",
     "invalidFile": "無效的文件",
     "checkUpdates": "在啟動時檢查更新",
@@ -40,10 +41,9 @@
     "notificationIndicator": "通知指示器",
     "autoReorderTasks": "自動重新排序任務",
     "moveCompletedTaskToBottom": "將完成的任務移至底部",
-    "clear": "刪除",
-    "fullscreenToDoModal": "全屏待辦事項詳細信息",
-    "moveCompletedSubTaskToBottom": "將完成的子任務移至底部",
-    "weekStartOnMonday": "一周從星期一開始"
+    "moveCompletedSubTaskToBottom": "Move completed sub-tasks to bottom",
+    "fullscreenToDoModal": "To-do Details in full screen",
+    "weekStartOnMonday": "The Week start on Monday"
   },
   "donate": {
     "contribute": "貢獻",
@@ -94,7 +94,7 @@
     "data8": "您也可以將它們隱藏在選項選中中",
     "data9": "蘋果",
     "data10": "茶點",
-    "data11": "點擊三個點以查看有關此任務的更多詳細訊息",
+    "data11": "Click the three dots to see more details about this task",
     "data12": "點擊滑鼠中鍵快速打開任務詳情",
     "list1": "自定義列表",
     "list2": "購物清單",
